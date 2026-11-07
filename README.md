@@ -1,6 +1,6 @@
-# My First Backend
+# Fruit Salad Backend
 
-My First Backend is a REST API built with Node.js and Express.js. It manages fruit data using a simple object-oriented programming (OOP) approach.
+Fruit Salad Backend is a REST API built with Node.js and Express.js. It manages fruit data using a simple object-oriented programming (OOP) approach.
 
 The project allows users to retrieve, create, update and delete fruit records stored in a JSON file.
 
